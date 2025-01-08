@@ -1,4 +1,6 @@
-﻿namespace FactoryPattern
+﻿using FactoryPattern;
+
+namespace FactoryMethod.BurgerFactory
 {
     class VeganBurgerStore : BurgerStore
     {

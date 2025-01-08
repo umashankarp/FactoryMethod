@@ -1,4 +1,4 @@
-﻿namespace FactoryPattern
+﻿namespace FactoryMethod.BurgerFactory
 {
     class DeluxeCheeseBurger : Burger
     {
